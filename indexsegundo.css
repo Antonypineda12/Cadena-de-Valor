@@ -213,6 +213,9 @@ header h3 {
     .dropdown-content {
         min-width: 100%; /* Full width dropdown on mobile */
         transform: translateX(-50%) translateY(5px); /* Adjust positioning */
+        overflow: visible;
+    height: auto;
+    z-index: 9999;
     }
 
     .dropdown-menu:hover .dropdown-content {
