@@ -15,7 +15,7 @@ header {
     background-color: #1a513b; /* Dark green color from the image */
     color: #ffffff; /* White text color */
     text-align: center;
-    padding: 20px 0; /* Add vertical padding */
+    padding: 40px 0; /* Add vertical padding */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
     margin-bottom: 20px; /* Space below the header */
 }
